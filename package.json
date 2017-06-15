@@ -1,0 +1,14 @@
+{
+  "name": "node-js-express-appliation",
+  "version": "0.0.0",
+  "description": "NodeJsExpressAppliation",
+  "main": "app.js",
+  "author": {
+    "name": "atulmal"
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
